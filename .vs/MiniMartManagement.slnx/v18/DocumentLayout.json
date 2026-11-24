@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HUTECH\\NH 2026-2027\\HK I\\Do An Co So\\Source\\MiniMartManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A608C5D6-9B39-90BE-FAB7-9FD3B8C716D2}|MiniMart.Web\\MiniMart.Web.csproj|d:\\hutech\\nh 2026-2027\\hk i\\do an co so\\source\\minimartmanagement\\minimart.web\\views\\sanphamtonkho\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A608C5D6-9B39-90BE-FAB7-9FD3B8C716D2}|MiniMart.Web\\MiniMart.Web.csproj|solutionrelative:minimart.web\\views\\sanphamtonkho\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A608C5D6-9B39-90BE-FAB7-9FD3B8C716D2}|MiniMart.Web\\MiniMart.Web.csproj|d:\\hutech\\nh 2026-2027\\hk i\\do an co so\\source\\minimartmanagement\\minimart.web\\controllers\\nhaphangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A608C5D6-9B39-90BE-FAB7-9FD3B8C716D2}|MiniMart.Web\\MiniMart.Web.csproj|solutionrelative:minimart.web\\controllers\\nhaphangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A608C5D6-9B39-90BE-FAB7-9FD3B8C716D2}|MiniMart.Web\\MiniMart.Web.csproj|d:\\hutech\\nh 2026-2027\\hk i\\do an co so\\source\\minimartmanagement\\minimart.web\\views\\nhaphang\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A608C5D6-9B39-90BE-FAB7-9FD3B8C716D2}|MiniMart.Web\\MiniMart.Web.csproj|solutionrelative:minimart.web\\views\\nhaphang\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A608C5D6-9B39-90BE-FAB7-9FD3B8C716D2}|MiniMart.Web\\MiniMart.Web.csproj|d:\\hutech\\nh 2026-2027\\hk i\\do an co so\\source\\minimartmanagement\\minimart.web\\views\\nhaphang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A608C5D6-9B39-90BE-FAB7-9FD3B8C716D2}|MiniMart.Web\\MiniMart.Web.csproj|solutionrelative:minimart.web\\views\\nhaphang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A608C5D6-9B39-90BE-FAB7-9FD3B8C716D2}|MiniMart.Web\\MiniMart.Web.csproj|d:\\hutech\\nh 2026-2027\\hk i\\do an co so\\source\\minimartmanagement\\minimart.web\\views\\nhaphang\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A608C5D6-9B39-90BE-FAB7-9FD3B8C716D2}|MiniMart.Web\\MiniMart.Web.csproj|solutionrelative:minimart.web\\views\\nhaphang\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A608C5D6-9B39-90BE-FAB7-9FD3B8C716D2}|MiniMart.Web\\MiniMart.Web.csproj|d:\\hutech\\nh 2026-2027\\hk i\\do an co so\\source\\minimartmanagement\\minimart.web\\models\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A608C5D6-9B39-90BE-FAB7-9FD3B8C716D2}|MiniMart.Web\\MiniMart.Web.csproj|solutionrelative:minimart.web\\models\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A608C5D6-9B39-90BE-FAB7-9FD3B8C716D2}|MiniMart.Web\\MiniMart.Web.csproj|d:\\hutech\\nh 2026-2027\\hk i\\do an co so\\source\\minimartmanagement\\minimart.web\\models\\chitietphieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A608C5D6-9B39-90BE-FAB7-9FD3B8C716D2}|MiniMart.Web\\MiniMart.Web.csproj|solutionrelative:minimart.web\\models\\chitietphieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A608C5D6-9B39-90BE-FAB7-9FD3B8C716D2}|MiniMart.Web\\MiniMart.Web.csproj|d:\\hutech\\nh 2026-2027\\hk i\\do an co so\\source\\minimartmanagement\\minimart.web\\models\\phieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A608C5D6-9B39-90BE-FAB7-9FD3B8C716D2}|MiniMart.Web\\MiniMart.Web.csproj|solutionrelative:minimart.web\\models\\phieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A608C5D6-9B39-90BE-FAB7-9FD3B8C716D2}|MiniMart.Web\\MiniMart.Web.csproj|d:\\hutech\\nh 2026-2027\\hk i\\do an co so\\source\\minimartmanagement\\minimart.web\\views\\sanphamtonkho\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A608C5D6-9B39-90BE-FAB7-9FD3B8C716D2}|MiniMart.Web\\MiniMart.Web.csproj|solutionrelative:minimart.web\\views\\sanphamtonkho\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A608C5D6-9B39-90BE-FAB7-9FD3B8C716D2}|MiniMart.Web\\MiniMart.Web.csproj|d:\\hutech\\nh 2026-2027\\hk i\\do an co so\\source\\minimartmanagement\\minimart.web\\views\\khachhang\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A608C5D6-9B39-90BE-FAB7-9FD3B8C716D2}|MiniMart.Web\\MiniMart.Web.csproj|solutionrelative:minimart.web\\views\\khachhang\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A608C5D6-9B39-90BE-FAB7-9FD3B8C716D2}|MiniMart.Web\\MiniMart.Web.csproj|d:\\hutech\\nh 2026-2027\\hk i\\do an co so\\source\\minimartmanagement\\minimart.web\\models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A608C5D6-9B39-90BE-FAB7-9FD3B8C716D2}|MiniMart.Web\\MiniMart.Web.csproj|solutionrelative:minimart.web\\models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A608C5D6-9B39-90BE-FAB7-9FD3B8C716D2}|MiniMart.Web\\MiniMart.Web.csproj|d:\\hutech\\nh 2026-2027\\hk i\\do an co so\\source\\minimartmanagement\\minimart.web\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A608C5D6-9B39-90BE-FAB7-9FD3B8C716D2}|MiniMart.Web\\MiniMart.Web.csproj|solutionrelative:minimart.web\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\HUTECH\\NH 2026-2027\\HK I\\Do An Co So\\Source\\MiniMartManagement\\MiniMart.Web\\Views\\SanPhamTonKho\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MiniMart.Web\\Views\\SanPhamTonKho\\Edit.cshtml",
+              "ToolTip": "D:\\HUTECH\\NH 2026-2027\\HK I\\Do An Co So\\Source\\MiniMartManagement\\MiniMart.Web\\Views\\SanPhamTonKho\\Edit.cshtml",
+              "RelativeToolTip": "MiniMart.Web\\Views\\SanPhamTonKho\\Edit.cshtml",
+              "ViewState": "AgIAAEACAAAAAAAAAAAcwGACAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-21T06:04:41.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "D:\\HUTECH\\NH 2026-2027\\HK I\\Do An Co So\\Source\\MiniMartManagement\\MiniMart.Web\\Models\\NhanVien.cs",
+              "RelativeDocumentMoniker": "MiniMart.Web\\Models\\NhanVien.cs",
+              "ToolTip": "D:\\HUTECH\\NH 2026-2027\\HK I\\Do An Co So\\Source\\MiniMartManagement\\MiniMart.Web\\Models\\NhanVien.cs",
+              "RelativeToolTip": "MiniMart.Web\\Models\\NhanVien.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAswD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T04:04:56.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\HUTECH\\NH 2026-2027\\HK I\\Do An Co So\\Source\\MiniMartManagement\\MiniMart.Web\\Views\\SanPhamTonKho\\Index.cshtml",
+              "RelativeDocumentMoniker": "MiniMart.Web\\Views\\SanPhamTonKho\\Index.cshtml",
+              "ToolTip": "D:\\HUTECH\\NH 2026-2027\\HK I\\Do An Co So\\Source\\MiniMartManagement\\MiniMart.Web\\Views\\SanPhamTonKho\\Index.cshtml",
+              "RelativeToolTip": "MiniMart.Web\\Views\\SanPhamTonKho\\Index.cshtml",
+              "ViewState": "AgIAAJUCAAAAAAAAAAAowKUCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-20T20:39:56.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\HUTECH\\NH 2026-2027\\HK I\\Do An Co So\\Source\\MiniMartManagement\\MiniMart.Web\\Views\\NhapHang\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MiniMart.Web\\Views\\NhapHang\\Edit.cshtml",
+              "ToolTip": "D:\\HUTECH\\NH 2026-2027\\HK I\\Do An Co So\\Source\\MiniMartManagement\\MiniMart.Web\\Views\\NhapHang\\Edit.cshtml",
+              "RelativeToolTip": "MiniMart.Web\\Views\\NhapHang\\Edit.cshtml",
+              "ViewState": "AgIAAH8CAAAAAAAAAAAkwJ0CAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-20T20:21:24.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\HUTECH\\NH 2026-2027\\HK I\\Do An Co So\\Source\\MiniMartManagement\\MiniMart.Web\\Views\\NhapHang\\Create.cshtml",
+              "RelativeDocumentMoniker": "MiniMart.Web\\Views\\NhapHang\\Create.cshtml",
+              "ToolTip": "D:\\HUTECH\\NH 2026-2027\\HK I\\Do An Co So\\Source\\MiniMartManagement\\MiniMart.Web\\Views\\NhapHang\\Create.cshtml",
+              "RelativeToolTip": "MiniMart.Web\\Views\\NhapHang\\Create.cshtml",
+              "ViewState": "AgIAABcDAAAAAAAAAAAgwB8DAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-20T20:20:47.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\HUTECH\\NH 2026-2027\\HK I\\Do An Co So\\Source\\MiniMartManagement\\MiniMart.Web\\Views\\NhapHang\\Index.cshtml",
+              "RelativeDocumentMoniker": "MiniMart.Web\\Views\\NhapHang\\Index.cshtml",
+              "ToolTip": "D:\\HUTECH\\NH 2026-2027\\HK I\\Do An Co So\\Source\\MiniMartManagement\\MiniMart.Web\\Views\\NhapHang\\Index.cshtml",
+              "RelativeToolTip": "MiniMart.Web\\Views\\NhapHang\\Index.cshtml",
+              "ViewState": "AgIAAHkBAAAAAAAAAAAowJkBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-20T20:20:14.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NhapHangController.cs",
+              "DocumentMoniker": "D:\\HUTECH\\NH 2026-2027\\HK I\\Do An Co So\\Source\\MiniMartManagement\\MiniMart.Web\\Controllers\\NhapHangController.cs",
+              "RelativeDocumentMoniker": "MiniMart.Web\\Controllers\\NhapHangController.cs",
+              "ToolTip": "D:\\HUTECH\\NH 2026-2027\\HK I\\Do An Co So\\Source\\MiniMartManagement\\MiniMart.Web\\Controllers\\NhapHangController.cs",
+              "RelativeToolTip": "MiniMart.Web\\Controllers\\NhapHangController.cs",
+              "ViewState": "AgIAAGkCAAAAAAAAAAAuwI0CAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T20:19:16.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChiTietPhieuNhap.cs",
+              "DocumentMoniker": "D:\\HUTECH\\NH 2026-2027\\HK I\\Do An Co So\\Source\\MiniMartManagement\\MiniMart.Web\\Models\\ChiTietPhieuNhap.cs",
+              "RelativeDocumentMoniker": "MiniMart.Web\\Models\\ChiTietPhieuNhap.cs",
+              "ToolTip": "D:\\HUTECH\\NH 2026-2027\\HK I\\Do An Co So\\Source\\MiniMartManagement\\MiniMart.Web\\Models\\ChiTietPhieuNhap.cs",
+              "RelativeToolTip": "MiniMart.Web\\Models\\ChiTietPhieuNhap.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T20:15:44.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PhieuNhap.cs",
+              "DocumentMoniker": "D:\\HUTECH\\NH 2026-2027\\HK I\\Do An Co So\\Source\\MiniMartManagement\\MiniMart.Web\\Models\\PhieuNhap.cs",
+              "RelativeDocumentMoniker": "MiniMart.Web\\Models\\PhieuNhap.cs",
+              "ToolTip": "D:\\HUTECH\\NH 2026-2027\\HK I\\Do An Co So\\Source\\MiniMartManagement\\MiniMart.Web\\Models\\PhieuNhap.cs",
+              "RelativeToolTip": "MiniMart.Web\\Models\\PhieuNhap.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAswDQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T20:15:27.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\HUTECH\\NH 2026-2027\\HK I\\Do An Co So\\Source\\MiniMartManagement\\MiniMart.Web\\Views\\KhachHang\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MiniMart.Web\\Views\\KhachHang\\Edit.cshtml",
+              "ToolTip": "D:\\HUTECH\\NH 2026-2027\\HK I\\Do An Co So\\Source\\MiniMartManagement\\MiniMart.Web\\Views\\KhachHang\\Edit.cshtml",
+              "RelativeToolTip": "MiniMart.Web\\Views\\KhachHang\\Edit.cshtml",
+              "ViewState": "AgIAABsBAAAAAAAAAAAwwDcBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-20T19:42:27.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "D:\\HUTECH\\NH 2026-2027\\HK I\\Do An Co So\\Source\\MiniMartManagement\\MiniMart.Web\\Models\\KhachHang.cs",
+              "RelativeDocumentMoniker": "MiniMart.Web\\Models\\KhachHang.cs",
+              "ToolTip": "D:\\HUTECH\\NH 2026-2027\\HK I\\Do An Co So\\Source\\MiniMartManagement\\MiniMart.Web\\Models\\KhachHang.cs",
+              "RelativeToolTip": "MiniMart.Web\\Models\\KhachHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T19:42:23.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "KhachHangController.cs",
+              "DocumentMoniker": "D:\\HUTECH\\NH 2026-2027\\HK I\\Do An Co So\\Source\\MiniMartManagement\\MiniMart.Web\\Controllers\\KhachHangController.cs",
+              "RelativeDocumentMoniker": "MiniMart.Web\\Controllers\\KhachHangController.cs",
+              "ToolTip": "D:\\HUTECH\\NH 2026-2027\\HK I\\Do An Co So\\Source\\MiniMartManagement\\MiniMart.Web\\Controllers\\KhachHangController.cs",
+              "RelativeToolTip": "MiniMart.Web\\Controllers\\KhachHangController.cs",
+              "ViewState": "AgIAALsAAAAAAAAAAAAowNsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T19:39:14.609Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
